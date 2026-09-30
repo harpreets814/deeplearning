@@ -3,3 +3,18 @@ __pycache__/
 .DS_Store
 *.pyc
 .ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.DS_Store
+*.pkl
+*.h5
+*.pt
+*.pth
+data/
+logs/
+EOFgit branch
